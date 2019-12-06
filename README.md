@@ -25,3 +25,9 @@ jsp/Servlet을 이용한 자격증 포털 사이트 구현
 * MySQL workbench
 * github
 
+## 사용 API
+* Mapbox API
+* 공공데이터 포탈 API
+* 카카오 좌표 변환 API
+* 서울 관광공사 API
+
