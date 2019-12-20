@@ -1,4 +1,4 @@
-:books: jjngmore :books:
+:books: # jjngmore :books:
 jsp/Servlet을 이용한 자격증 포털 사이트 구현
 
 ## 서비스 개요
