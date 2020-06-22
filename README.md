@@ -30,7 +30,7 @@ jsp/Servlet을 이용한 자격증 포털 사이트 구현
 * 공공데이터 포탈 API
 * Q-net API
 
-## 기능 상세 설계(플로우)
+## :green_book: 기능 상세 설계(플로우)
 ![메인 화면](./WebContent/images/쯩플로우.JPG)
 
 ## 화면 구현
