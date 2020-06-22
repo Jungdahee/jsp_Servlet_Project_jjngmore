@@ -30,6 +30,9 @@ jsp/Servlet을 이용한 자격증 포털 사이트 구현
 * 공공데이터 포탈 API
 * Q-net API
 
+## 기능 상세 설계(플로우)
+![메인 화면](./WebContent/images/쯩플로우.JPG)
+
 ## 화면 구현
 * 메인 페이지
 ![메인 화면](./WebContent/images/쯩메인.JPG)
@@ -54,6 +57,17 @@ jsp/Servlet을 이용한 자격증 포털 사이트 구현
 
 * 스터디게시판
 ![스터디 게시판 화면](./WebContent/images/쯩스터디게시판.JPG)
+
+* 자유게시판 글 등록
+![자유 게시판 글 등록 화면](./WebContent/images/쯩글등록.JPG)
+
+* 마이페이지
+![마이페이지 화면](./WebContent/images/쯩마이페이지.JPG)
+
+* 내 정보 수정
+![내정보 수정 화면](./WebContent/images/쯩내정보수정.JPG)
+
+
 
 
 
