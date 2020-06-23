@@ -15,9 +15,9 @@ jsp/Servlet을 이용한 자격증 포털 사이트 구현
 * 공지사항, 자유게시판, 스터디 게시판 등을 통해 커뮤니케이션할 수 있음.
 
 ## 사용 언어 및 라이브러리
-* Java
+* jsp/Servlet(Java)
 * HTML
-* JavaScript, jQuery
+* JavaScript, jQuery, ajax
 * sql
 
 ## 사용 Tool
