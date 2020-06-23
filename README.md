@@ -67,6 +67,12 @@ jsp/Servlet을 이용한 자격증 포털 사이트 구현
 * 내 정보 수정
 ![내정보 수정 화면](./WebContent/images/쯩내정보수정.JPG)
 
+* 알림 화면
+![알림 화면](./WebContent/images/쯩알림.JPG)
+
+* 관리자 페이지
+![관리자 권한 화면](./WebContent/images/쯩.JPG)
+
 
 
 
