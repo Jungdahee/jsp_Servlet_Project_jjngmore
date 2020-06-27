@@ -24,7 +24,7 @@ jsp/Servlet을 이용한 자격증 포털 사이트 구현
 * Eclipse photon
 * Visual Studio Code
 * MySQL workbench
-* Git
+* Git Bash
 
 ## 사용 API
 * 공공데이터 포탈 API
