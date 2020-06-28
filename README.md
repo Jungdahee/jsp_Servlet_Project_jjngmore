@@ -18,7 +18,7 @@ jsp/Servlet을 이용한 자격증 포털 사이트 구현
 * jsp/Servlet(Java)
 * HTML
 * JavaScript, jQuery, ajax
-* sql
+* sql(mySQL)
 
 ## 사용 Tool
 * Eclipse photon
